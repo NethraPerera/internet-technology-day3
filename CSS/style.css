@@ -18,20 +18,52 @@ body{
 /* class selector */
 .h1_bg_blue{
     background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    letter-spacing: 3ch;
+    /* text-decoration: underline; */
+    
 }
 .h1_bg_greenYellow{
     background-color: greenyellow;
+
+    /* padding: 30px; */
+    /* padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+     */
+    padding: 20px 30px 40px 50px;
+    
+    border: 5px;
+    border-radius: 10px;
+    border-style: dotted;
+
+    margin: 50px;
 }
 
 /* id selectors */
 #paragraph_bc{
     background-color: black;
     color: white;
+    /* margin: 50px 20px 50px 20px;
+    border: 10px;
+    border-style: solid; */
 }
 
 /* universal selectors */
+/* this changes the entire web page */
 *{
-    background-color: black;
+    /* background-color: black; */
     margin: 0;
     padding: 0;
+}
+/* adding a background image  */
+body{
+    background-image: url('../images/flowers.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
 }

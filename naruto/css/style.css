@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(246, 242, 233);
+    /* background-image: url('https://wallpaperaccess.com/full/7412974.jpg'); */
+}
+h1{
+    text-align: center;
+    background-color: darkred;
+    color: white;
+
+    padding: 30px;
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+    
+    background-color: rgb(6, 25, 80);
+    /* background-color: rgb(1, 33, 13); */
+    color: white;
+
+    padding: 115px 30px 115px 30px;
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+}
+h4{
+    text-align: center;
+    font-size: 3ch;
+    background-color: darkgray;
+    padding: 45px 30px 45px 30px;
+}
+#first_paragraph{
+    /* text-align: center; */
+    font-weight: bold;
+    font-size: larger;
+    background-color: darkgray;
+
+    padding-bottom: 45px;
+    padding-top: 45px;
+}
+#table01{
+    border: 5ch;
+}
+/* .first_Column{
+    background-color: darkred;
+    color: white;
+    
+} */
