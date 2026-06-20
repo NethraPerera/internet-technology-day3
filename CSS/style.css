@@ -1,5 +1,5 @@
 /* element selectors */
-h1 {
+/* h1 {
     background-color: rgb(68, 10, 36) !important;
     text-align: end;
     color: white !important;
@@ -13,4 +13,12 @@ ol{
 }
 body{
     background-color: black;
+} */
+
+/* class selector */
+.h1_bg_blue{
+    background-color: blue;
+}
+.h1_bg_greenYellow{
+    background-color: greenyellow;
 }
