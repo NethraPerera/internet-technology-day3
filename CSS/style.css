@@ -28,3 +28,10 @@ body{
     background-color: black;
     color: white;
 }
+
+/* universal selectors */
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
