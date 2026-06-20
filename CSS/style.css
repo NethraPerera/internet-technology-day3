@@ -22,3 +22,9 @@ body{
 .h1_bg_greenYellow{
     background-color: greenyellow;
 }
+
+/* id selectors */
+#paragraph_bc{
+    background-color: black;
+    color: white;
+}
