@@ -67,3 +67,44 @@ body{
     background-attachment: fixed;
     background-position: center ;
 }
+.P1{
+    background-color: aquamarine;
+    padding: 30px;
+}
+/* relative position */
+#box01 {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+
+#box02 {
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    background-color: blue;
+}
+
+/*  position fixed*/
+#box03 {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: fixed;
+    top: 20px;
+    left: 70px;
+}
+
+/*  position sticky*/
+#box04 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(37, 165, 65);
+    position: sticky;
+    top: 20px;
+    left: 70px;
+    border-radius: 50%;
+}
