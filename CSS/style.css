@@ -1,0 +1,16 @@
+/* element selectors */
+h1 {
+    background-color: rgb(68, 10, 36) !important;
+    text-align: end;
+    color: white !important;
+}
+p{
+    font-style: italic;
+    font-size: large;
+}
+ol{
+    color: chartreuse;
+}
+body{
+    background-color: black;
+}
